@@ -9,3 +9,22 @@
 .wrapper {
     max-width: calc(1300px - (30px * 2));
 }
+
+.image-wrapper {
+    text-align: center;    
+}
+
+.image-wrapper .image-caption {
+    color: #a9a9a9;
+    margin-top: 10;
+}
+
+.image-wrapper.left-aligned {
+    float: left;
+    margin-right: 10px;
+}
+
+.image-wrapper.right-aligned {
+    float: right;
+    margin-left: 10px;
+}
