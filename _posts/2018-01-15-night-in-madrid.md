@@ -6,6 +6,8 @@ categories: travel central-america spain
 excerpt_separator: <!--more-->
 ---
 
+![Vaporware in Madrid]({{ "/assets/central-america-trip/madrid-night-cover.jpeg" | absolute_url }})
+
 Действито се случва на: **09.12.2017г.**
 
 Като първа стъпка в пътуването беше престой в Мадрид. Пристигахме вечерта и следващият ни полет беше на следващия ден през деня, някъде около обяд.
@@ -24,4 +26,4 @@ excerpt_separator: <!--more-->
 
 _Това е част от поредицата ми, описваща мислите ми по време на скорошната ми почивка в Централна Америка. Начало на поредицата и описание можете да намерите [тук]({{ site.baseurl }}{% post_url 2018-01-15-01-central-america-intro %})._
 
-[Следващият ден ->]()
+[Следващият ден ->]({{ site.baseurl }}{% post_url 2018-01-15-panama-day-1 %})
