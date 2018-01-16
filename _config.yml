@@ -57,4 +57,4 @@ defaults:
     values:
       layout: post
       author: Doycho
-      excerpt_separator: <!--more-->
+      excerpt_separator: "<!--more-->"
