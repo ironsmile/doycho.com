@@ -48,3 +48,13 @@ timezone: Europe/Sofia
 webrick:
   headers:
     X-Clacks-Overhead: GNU Terry Pratchett
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Doycho
+      excerpt_separator: <!--more-->

@@ -1,9 +1,7 @@
 ---
-layout: post
 title:  "Ден 0: Една нощ в Мадрид"
 date:   2018-01-15 00:21:00 +0200
 categories: travel central-america spain
-excerpt_separator: <!--more-->
 ---
 
 ![Vaporware in Madrid]({{ "/assets/central-america-trip/madrid-night-cover.jpeg" | absolute_url }})

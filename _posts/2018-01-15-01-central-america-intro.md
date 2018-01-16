@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Разходка из Централна Америка - интро"
 date:   2018-01-15 00:13:00 +0200
 categories: travel
