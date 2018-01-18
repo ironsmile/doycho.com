@@ -3,7 +3,11 @@
 */
 
 .left-aligned-img {
-  margin-right: 10px;
+    margin-right: 10px;
+}
+
+.right-aligned-img {
+    margin-left: 10px;
 }
 
 .wrapper {
@@ -11,12 +15,26 @@
 }
 
 .image-wrapper {
-    text-align: center;    
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+@media all and (max-width: 600px) {
+    .image-wrapper {
+        width: 100%;
+    }
+    .left-aligned-img {
+        float: none;
+    }
+    .right-aligned-img {
+        float: none;
+    }
 }
 
 .image-wrapper .image-caption {
     color: #a9a9a9;
-    margin-top: 10;
+    max-width: 403px;
+    margin: 0 auto;
 }
 
 .image-wrapper.left-aligned {

@@ -63,4 +63,4 @@ _хм... бивши испански колонии, загубени заедн
 
 {% include central-america-post-footer.html %}
 
-[Следващият ден ->]({{ site.baseurl }}{% post_url 2018-01-17-panama-day-1 %})
+[Следващият ден ->]({{ site.baseurl }}{% post_url 2018-01-18-panama-day-1 %})

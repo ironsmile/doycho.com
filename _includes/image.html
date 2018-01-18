@@ -8,6 +8,8 @@
     </a>
     {% endif %}
     {% if include.caption %}
-        <p class="image-caption">{{ include.caption }}</p>
+        <p class="image-caption"
+            {% if include.maxWidth %}style="max-width: {{ include.maxWidth }}px;"{% endif %}
+        >{{ include.caption }}</p>
     {% endif %}
 </div>
