@@ -10,6 +10,15 @@
     {% if include.caption %}
         <p class="image-caption"
             {% if include.maxWidth %}style="max-width: {{ include.maxWidth }}px;"{% endif %}
-        >{{ include.caption }}</p>
+        >{{ include.caption }}{% if include.credits %}
+            {% if include.credits_url %}
+            <a href="{{ include.credits_url }}"
+                rel="noopener noreferrer"
+                target="_blank"
+            >{{ include.credits }}</a>
+            {% else %}
+                {{ include.credits }}
+            {% endif %}
+        {% endif %}</p>
     {% endif %}
 </div>
