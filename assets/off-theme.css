@@ -54,3 +54,15 @@
 .post-footer {
     margin-top: 30px;
 }
+
+.bluebox {
+    background-color: #798ec4;
+    padding: 10px;
+    color: white;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.bluebox a {
+    color: #cccccc;
+}
