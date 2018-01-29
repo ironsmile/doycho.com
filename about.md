@@ -28,3 +28,5 @@ This site was created and hosted with the help of the following software:
 * [ImageMagic](https://www.imagemagick.org/script/index.php) and [GIMP](https://www.gimp.org/) - rarely an image is just right for publishing 
 
 I am extremely grateful to the countless people who have poured their time and effort into them. At different times I've also donated to most of these and encourage you to do the same. These are the people who would enable us to wrestle control back over the web once again if we ever manage to do it.
+
+The other group of people I want to mention is everyone [who have hepled me with this site](https://github.com/ironsmile/doycho.com/graphs/contributors). Every single corrected spelling mistake is greatly appreciated.
