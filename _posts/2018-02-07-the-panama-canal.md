@@ -144,7 +144,7 @@ categories: travel central-america
 {% include image.html
             img="/assets/central-america-trip/day3-museum-train-thumb.jpeg"
             title="Реших, че модел на работен влак от музея ще е по - интересен от чакащи хора."
-            caption="Корабът е вече в първия резервоар. Отварянето и затварянето на шлюзовете беше изненадващо бързо."
+            caption="На кой му трябват влакове при тези чудесни автобуси? Правилно си стои в музея."
             url="/assets/central-america-trip/day3-museum-train.jpeg"
             maxWidth=403
             right=true %}
