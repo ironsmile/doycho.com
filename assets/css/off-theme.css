@@ -67,3 +67,12 @@
 .bluebox a {
     color: #cccccc;
 }
+
+.share-post-block .ion {
+    font-size: 30px;
+    margin-right: 8px;
+}
+
+.share-post-block {
+    margin-top: 40px;
+}

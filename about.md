@@ -25,7 +25,8 @@ This site was created and hosted with the help of the following software:
 * [Ubuntu OS](https://www.ubuntu.com/) - the OS of my first choice
 * [Nginx](https://nginx.org/) - there hardly is a [better](https://github.com/ironsmile/nedomi) webserver out there
 * [Jekyll](https://jekyllrb.com/) - in my opinion this project helps the web go back where it was supposed to be
-* [ImageMagic](https://www.imagemagick.org/script/index.php) and [GIMP](https://www.gimp.org/) - rarely an image is just right for publishing 
+* [ImageMagic](https://www.imagemagick.org/script/index.php) and [GIMP](https://www.gimp.org/) - rarely an image is just right for publishing
+* [ionicons](http://ionicons.com/)
 
 I am extremely grateful to the countless people who have poured their time and effort into them. At different times I've also donated to most of these and encourage you to do the same. These are the people who would enable us to wrestle control back over the web once again if we ever manage to do it.
 
