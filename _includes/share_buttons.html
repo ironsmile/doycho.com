@@ -1,37 +1,37 @@
 
 <div class="share-post-block clearfix">
     <p>
-        <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | escape }}&title={{ page.title | escape }}"
+        <a href="https://www.reddit.com/submit?url={{ page.url | absolute_url | url_encode | escape }}&amp;title={{ page.title| url_encode | escape }}"
             title="Submit to Reddit"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="ion ion-social-reddit-outline"></i></a>
 
-        <a href="https://www.facebook.com/share.php?u={{ page.url | absolute_url | escape }}"
+        <a href="https://www.facebook.com/share.php?u={{ page.url | absolute_url| url_encode | escape }}"
             title="Share on Facebook"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="ion ion-social-facebook-outline"></i></a>
 
-        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | escape }}&text={{ page.title | escape }}"
+        <a href="https://twitter.com/intent/tweet?url={{ page.url | absolute_url | url_encode | escape }}&amp;text={{ page.title | url_encode | escape }}"
             title="Tweet on Twitter"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="ion ion-social-twitter-outline"></i></a>
 
-        <a href="https://plus.google.com/share?url={{ page.url | absolute_url | escape }}"
+        <a href="https://plus.google.com/share?url={{ page.url | absolute_url | url_encode | escape }}"
             title="Share on Google+"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="ion ion-social-googleplus"></i></a>
 
-        <a href="http://www.tumblr.com/share/link?url={{ page.url | absolute_url | escape }}"
+        <a href="http://www.tumblr.com/share/link?url={{ page.url | absolute_url | url_encode | escape }}"
             title="Share on Tumblr"
             target="_blank"
             rel="noopener noreferrer"
             ><i class="ion ion-social-tumblr-outline"></i></a>
 
-        <a href="mailto:?subject={{ page.title | escape }}&body={{ page.url | absolute_url | escape }}"
+        <a href="mailto:?subject={{ page.title | url_encode | escape }}&amp;body={{ page.url | absolute_url | url_encode | escape }}"
             title="Share via email"
             target="_blank"
             ><i class="ion ion-ios-email-outline"></i></a>
