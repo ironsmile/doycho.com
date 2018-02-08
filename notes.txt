@@ -1,4 +1,8 @@
-https://www.vox.com/2015/6/12/8768827/seniors-aging-car-driving
-
 cover photo size: 1240x442
 post photo size: 403x302
+
+- Неща за свършване
+
+* zoom-in cursor на картиките за кликане
+* социалните бутони да се отварят в iframe popup
+* картинките за кликане да се отварят в popup с линк за "виж оригинал"
