@@ -1,6 +1,15 @@
 cover photo size: 1240x442
 post photo size: 403x302
 
+-- линкове --
+
+Да се добавят във Ден 3 статията:
+
+* https://en.wikipedia.org/wiki/Panama_Canal_Zone#Tensions_and_the_end_of_the_Canal_Zone
+* https://en.wikipedia.org/wiki/Martyrs%27_Day_(Panama)
+* https://www.nytimes.com/1964/01/12/the-panama-canal-and-the-conflict-surrounding-it.html?mcubz=1
+* https://www.hartford-hwp.com/archives/47/354.html
+
 - Неща за свършване
 
 * да проверя за mixed content
