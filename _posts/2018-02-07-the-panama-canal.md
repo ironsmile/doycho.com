@@ -30,7 +30,7 @@ categories: travel central-america
 {% include image.html
             img="/assets/central-america-trip/day3-albrook-thumb.jpeg"
             title="Автобус в автогара"
-            caption="Доста скромен представители на Червените Дяволи"
+            caption="Доста скромни представители на Червените Дяволи"
             url="/assets/central-america-trip/day3-albrook.jpeg"
             maxWidth=403
             left=true %}
