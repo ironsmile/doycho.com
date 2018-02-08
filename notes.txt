@@ -1,6 +1,10 @@
 cover photo size: 1240x442
 post photo size: 403x302
 
+-- конвертиране --
+
+convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB puzzle_converted.jpg
+
 -- линкове --
 
 Да се добавят във Ден 3 статията:
@@ -12,7 +16,8 @@ post photo size: 403x302
 
 - Неща за свършване
 
-* да проверя за mixed content
-* zoom-in cursor на картиките за кликане
+* Cache headers
 * социалните бутони да се отварят в iframe popup
 * картинките за кликане да се отварят в popup с линк за "виж оригинал"
+
+
