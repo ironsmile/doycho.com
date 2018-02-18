@@ -5,6 +5,10 @@ post photo size: 403x302
 
 convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB puzzle_converted.jpg
 
+-- дали jpeg е progressive --
+
+identify -verbose file.jpeg | grep -E '(Image:|Interlace)'
+
 -- линкове --
 
 Да се добавят във Ден 3 статията:
@@ -19,5 +23,3 @@ convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -co
 * Cache headers
 * социалните бутони да се отварят в iframe popup
 * картинките за кликане да се отварят в popup с линк за "виж оригинал"
-
-
