@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {% include footer.html %}
+
+    <script src="{{ "/assets/js/zepto.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/magnific.popup.min.js" | relative_url }}"></script>
+
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('.gallery').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          zoom: {
+            enabled: true,
+            duration: 300,
+            easing: 'ease-in-out'
+          },
+          gallery:{
+            enabled:true,
+            preload: [1,1]
+          }
+        });
+      });
+    </script>
+
+  </body>
+
+</html>

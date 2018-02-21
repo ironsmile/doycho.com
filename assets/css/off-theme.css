@@ -2,6 +2,13 @@
 * Personal stuff
 */
 
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
 .left-aligned-img {
     margin-right: 10px;
 }
@@ -79,4 +86,48 @@
 
 .share-post-block {
     margin-top: 40px;
+}
+
+.gallery-full-width {
+    clear: both;
+    margin: 10px 0;
+}
+
+.gallery-row {
+    display: flex;
+    flex-wrap: wrap;
+    display: -ms-flexbox; /* IE10 */
+    -ms-flex-wrap: wrap; /* IE10 */
+}
+
+/* Create four equal columns that sits next to each other */
+.gallery-column {
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+    -ms-flex: 25%; /* IE10 */
+}
+
+.gallery-column img {
+    width: 100%;
+    margin-top: 8px;
+    vertical-align: middle;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 800px) {
+    .gallery-column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .gallery-column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
 }
