@@ -1,9 +1,11 @@
 <!-- _includes/image.html -->
 <div class="image-wrapper {% if include.left %}left-aligned{% endif %} {% if include.right %}right-aligned{% endif %}">
     {% if include.url %}
-    <a href="{{ include.url | absolute_url }}" title="{{ include.title }}" target="_blank">
+    <a href="{{ include.url | absolute_url }}" title="{{ include.title }}" target="_blank"
+        class="post-image-full">
     {% endif %}
-        <img src="{{ include.img | absolute_url }}" alt="{{ include.title }}"/>
+        <img src="{{ include.img | absolute_url }}" alt="{{ include.title }}"
+            class="post-image-thumb" />
     {% if include.url %}
     </a>
     {% endif %}

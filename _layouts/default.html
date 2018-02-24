@@ -15,8 +15,8 @@
 
     {% include footer.html %}
 
-    <script src="{{ "/assets/js/zepto.min.js" | relative_url }}"></script>
-    <script src="{{ "/assets/js/magnific.popup.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/zepto-1.2.0.min.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/magnific.popup-1.1.0-1.min.js" | relative_url }}"></script>
 
     <script type="text/javascript">
       $(document).ready(function () {
@@ -31,6 +31,26 @@
           gallery:{
             enabled:true,
             preload: [1,1]
+          }
+        });
+
+        $('.post-image-full').magnificPopup({
+          type:'image',
+          zoom: {
+            enabled: true,
+            duration: 300,
+            easing: 'ease-in-out'
+          },
+          image: {
+            titleSrc: function (item) {
+              var parent = item.el.parent();
+              if (parent && parent.length > 0 && parent[0].lastElementChild &&
+                  parent[0].lastElementChild.className == "image-caption") {
+                return parent[0].lastElementChild.innerHTML;
+              }
+
+              return item.el.attr('title');
+            }
           }
         });
       });
