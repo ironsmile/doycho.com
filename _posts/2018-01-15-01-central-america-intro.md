@@ -6,13 +6,21 @@ categories: travel
 
 Това е серия от постове, в които ще опиша коледната ни почивка в централна Америка. Формата е нещо-като-дневник-докато-пътувахме. Почти всичко беше написано в малката ми тетрадка, която нося с мен по време на пътуване. Естествено, тук малко ще го редактирам и допълня.
 
-<!--more-->
-
 **Период:** от 09.12.2017 до 26.12.2017г. Да, включва Бъдни вечер в McDolands и Коледа по летища! Има ли по - тъжни хора от нас? Петте ни ястия включваха неща като Биг Мак, Орео и Кит Кат. Никакъв помен от баница.
 
 **Държави:** Панама, Коста Рика и Никарагуа
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1zBFZ8PPrPTlewvO9HP9aac26ucyfzy_l" width="100%" height="480"></iframe>
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=1zBFZ8PPrPTlewvO9HP9aac26ucyfzy_l&ll=10.381394561705516%2C-82.87802199999999&z=8"
+    title="Карта на всички места, които посетихме" target="_blank" class="central-america-intro-map-wide">
+    <img src="{{ "/assets/central-america-trip/maps/all-places-wide.jpeg" | absolute_url }}" alt="">
+</a>
+
+<a href="https://www.google.com/maps/d/u/0/viewer?mid=1zBFZ8PPrPTlewvO9HP9aac26ucyfzy_l&ll=10.381394561705516%2C-82.87802199999999&z=8"
+    title="Карта на всички места, които посетихме" target="_blank" class="central-america-intro-map-narrow">
+    <img src="{{ "/assets/central-america-trip/maps/all-places-narrow.jpeg" | absolute_url }}" alt="">
+</a>
+
+<!--more-->
 
 Движението ни беше от Панама City към Манагуа. От време на време се случваше да пътуваме по 6-7ч. в един ден. Трябва да кажа, че най - добре опознах транспортните обичаи на региона. Може да не се запознах с много хора, но в колко автобуси пътувах! И колко начина на заплащане на съответните автобуси научих. Това е живота!
 

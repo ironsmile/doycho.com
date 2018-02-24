@@ -131,3 +131,17 @@ html {
         max-width: 100%;
     }
 }
+
+.central-america-intro-map-narrow {
+    display: none;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media (max-width: 600px) {
+    .central-america-intro-map-narrow {
+        display: inherit;
+    }
+    .central-america-intro-map-wide {
+        display: none;
+    }
+}
