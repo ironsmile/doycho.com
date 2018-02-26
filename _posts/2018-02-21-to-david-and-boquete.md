@@ -75,41 +75,41 @@ lang: bg
     <div class="gallery-row">
         <div class="gallery-column">
             <a href="/assets/central-america-trip/day4-chirstmas-decoration-yard.jpeg"
-                title="Двора на един пазар-хостел-нещо-за-туристи, който видяхме докато се разхождахме.">
+                title="Двора на един пазар-хостел-нещо-за-туристи, който видяхме докато се разхождахме. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-chirstmas-decoration-yard-thumb.jpeg">
             </a>
             <a href="/assets/central-america-trip/day4-coizy-house.jpeg"
-                title="Къщата на семейството на нашия домакин - Давид.">
+                title="Къщата на семейството на нашия домакин - Давид. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-coizy-house-thumb.jpeg">
             </a>
         </div>
         <div class="gallery-column">
             <a href="/assets/central-america-trip/day4-square-decoration.jpeg"
-                title="Част от декорацията на центрлния площад.">
+                title="Част от декорацията на центрлния площад. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-square-decoration-thumb.jpeg">
             </a>
             <a href="/assets/central-america-trip/day4-square-fountain.jpeg"
-                title="Фонтана на централния площад, подтикващ към сътрудничество между градовете наоколо.">
+                title="Фонтана на централния площад, подтикващ към сътрудничество между градовете наоколо. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-square-fountain-thumb.jpeg">
             </a>
         </div>
         <div class="gallery-column">
             <a href="/assets/central-america-trip/day4-river.jpeg"
-                title="Изглед от моста на града.">
+                title="Изглед от моста на града. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-river-thumb.jpeg">
             </a>
             <a href="/assets/central-america-trip/day4-painted-fasade.jpeg"
-                title="Наиситна не знам какво е това, но Йо го е забелязала и запазила.">
+                title="Наиситна не знам какво е това, но Йо го е забелязала и запазила. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-painted-fasade-thumb.jpeg">
             </a>
         </div>
         <div class="gallery-column">
             <a href="/assets/central-america-trip/day4-mountains.jpeg"
-                title="Малко мостра какво се очаква в следващата статия от поредицата.">
+                title="Малко мостра какво се очаква в следващата статия от поредицата. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-mountains-thumb.jpeg">
             </a>
             <a href="/assets/central-america-trip/day4-arte-hostel.jpeg"
-                title="Входа на хостела, в който спахме. Хората там предлага курсове по дърворезба и съответно дърворезбата беше навсякъде из хостела.">
+                title="Входа на хостела, в който спахме. Хората там предлага курсове по дърворезба и съответно дърворезбата беше навсякъде из хостела. Снимка - Йо.">
                 <img src="/assets/central-america-trip/day4-arte-hostel-thumb.jpeg">
             </a>
         </div>
