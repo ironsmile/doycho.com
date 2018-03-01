@@ -6,7 +6,7 @@ categories: travel central-america
 
 ![Ship entering Miraflores locks]({{ "/assets/central-america-trip/panama-canal-cover.jpeg" | absolute_url }})
 
-Действито се случва на: **12.12.2017г.**
+Действието се случва на: **12.12.2017г.**
 
 След като [разглеждахме града]({{ site.baseurl }}{% post_url 2018-01-25-panama-day-2 %}) дойде и времето за основната атракция - [Панамския канал](https://en.wikipedia.org/wiki/Panama_Canal). Трябва да си призная, че очаквах просто някакъв канал, започващ от някое пристанище до града. Обградени от купища малки и големи кораби, всеки тръгнал по задачата си. На практика се оказах изцяло сгрешил.
 
