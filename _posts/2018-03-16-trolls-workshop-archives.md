@@ -15,9 +15,9 @@ categories: personal
 - "Така ли, я потърси за Oni и ще видим" му отговарям тъй като съм сигурен, че има нещо тук и това не е случайност.
 
 {% include image.html
-            img="http://gw.doycho.com/images/Oni.jpg"
+            img="/assets/gw/Oni.jpeg"
             title="Съмнително познат плакат на Oni"
-            url="http://gw.doycho.com/files/workshop/Posters/Oni.jpg"
+            url="/assets/gw/Oni-full.jpeg"
             right=true
             maxWidth=403 %}
 
