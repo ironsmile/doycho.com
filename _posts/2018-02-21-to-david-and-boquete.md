@@ -116,4 +116,6 @@ lang: bg
     </div>
 </div>
 
-_Това е част от поредицата ми, описваща мислите ми по време на скорошната ми почивка в Централна Америка. Начало на поредицата и описание можете да намерите [тук]({{ site.baseurl }}{% post_url 2018-01-15-01-central-america-intro %})._
+{% include central-america-post-footer.html %}
+
+[Следващият ден ->]({{ site.baseurl }}{% post_url 2018-03-24-first-trek-in-the-mountain-jungle %})
