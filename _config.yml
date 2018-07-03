@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Doycho's Personal Corner
+title: "Doycho's Personal Corner"
 email: ironsmile@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   On these pages you would find a somewhat odd blend of stuff about history, software
@@ -59,3 +59,4 @@ defaults:
       layout: post
       author: Doycho
       excerpt_separator: "<!--more-->"
+      lang: bg
