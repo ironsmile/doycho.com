@@ -4,7 +4,11 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://s.gravatar.com/avatar/64797861a99c84cef7d60f2c110af4d0?s=160" alt="Self Portrait" align="left" class="left-aligned-img">
+{% include image.html
+            img="https://s.gravatar.com/avatar/64797861a99c84cef7d60f2c110af4d0?s=160"
+            title="Self Portrait"
+            right=left %}
+
 This is my personal page where I would try to keep a blog and share my thoughts with everyone who might care. But "why not Facebook, Twitter and the like" you would ask? Surely we have better ways for doing this by now? Why are you so 2000? I do believe that the web is changing for the worse and we are seeding [too](https://en.wikipedia.org/wiki/Twitter) [much](https://en.wikipedia.org/wiki/Netflix) [power](https://en.wikipedia.org/wiki/Apple_Inc.) [to](https://en.wikipedia.org/wiki/Google) [few](https://en.wikipedia.org/wiki/Amazon_(company)) [big](https://en.wikipedia.org/wiki/Microsoft) [corporations](https://en.wikipedia.org/wiki/Facebook). All American I might add! What is going on fellow Europeans? So I do many things to keep my life away from them. Like hosting my own web page. We can turn the things around to [the way they were](http://idlewords.com/talks/ancient_web.htm) however unlikely this is. Besides, this is the only way I've found where I can reliably send you [the clacks overhead](https://xclacksoverhead.org/).
 
 But who am I? Wasn't that the whole point of this page? Well, here we go...
