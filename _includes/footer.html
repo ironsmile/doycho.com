@@ -42,6 +42,18 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.reddit_username %}
+          <li>
+            {% include icon-reddit.html username=site.reddit_username %}
+          </li>
+          {% endif %}
+
+          {% if site.lastfm_username %}
+          <li>
+            {% include icon-last.fm.html username=site.lastfm_username %}
+          </li>
+          {% endif %}
         </ul>
       </div>
 

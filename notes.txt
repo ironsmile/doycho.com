@@ -16,3 +16,7 @@ identify -verbose file.jpeg | grep -E '(Image:|Interlace)'
 * Cache headers
 * социалните бутони да се отварят в iframe popup
 * картинките за кликане да се отварят в popup с линк за "виж оригинал"
+
+- линкове
+
+* http://haveago.city/disgraceful-dockless-drama/
