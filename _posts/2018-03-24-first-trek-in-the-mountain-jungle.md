@@ -158,3 +158,5 @@ categories: travel central-america
 </div>
 
 {% include central-america-post-footer.html %}
+
+[Следващият ден ->]({{ site.baseurl }}{% post_url 2019-04-30-beaches-and-bedbugs %})
