@@ -21,4 +21,3 @@ identify -verbose file.jpeg | grep -E '(Image:|Interlace)'
 
 - линкове
 
-* http://haveago.city/disgraceful-dockless-drama/
