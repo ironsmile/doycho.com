@@ -1,0 +1,23 @@
+---
+layout: page
+title: Archive
+permalink: /archive/
+---
+
+<p>
+    Here is a list of all blog posts in a chrnological order. Feel free
+    to satisfy your reading curiosity!
+</p>
+
+
+{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+
+<ul class="ul-no-bullets">
+{% for post in site.posts %}
+    <li>
+        <a href="{{ post.url | relative_url }}">
+            {{ post.title }}
+        </a> ({{ post.date | date: date_format }})
+    </li>
+{% endfor %}
+</ul>

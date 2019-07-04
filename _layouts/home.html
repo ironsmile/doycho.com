@@ -5,11 +5,18 @@ layout: default
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
+
+  <p>
+    Welcome! You've stumbled upon <a href="{{ "/about" | relative_url }}">my</a> personal
+    blog. Here you will find the latest posts. If you'd like you can take a look at the
+    <a href="{{ "/archive" | relative_url }}">full archive</a> or subscribe
+    <a href="{{ "/feed.xml" | relative_url }}">via RSS</a> for anything new.
+  </p>
   
   {{ content }}
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:6 %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -27,6 +34,9 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+  <p class="rss-subscribe">
+    See <a href="{{ "/archive" | relative_url }}">all the rest of the posts</a> or
+    subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a>
+  </p>
 
 </div>

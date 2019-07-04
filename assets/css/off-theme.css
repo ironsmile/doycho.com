@@ -145,3 +145,9 @@ html {
         display: none;
     }
 }
+
+/* Archive page */
+
+.ul-no-bullets > li {
+    list-style-type: none;
+}
