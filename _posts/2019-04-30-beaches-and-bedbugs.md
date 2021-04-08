@@ -131,3 +131,5 @@ _Тази статия идва след месеци отлагане. Изгл
 </div>
 
 {% include central-america-post-footer.html %}
+
+[Следващият ден ->]({{ site.baseurl }}{% post_url 2021-04-08-road-to-golfito %})
