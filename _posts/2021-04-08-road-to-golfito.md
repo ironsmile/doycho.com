@@ -84,59 +84,39 @@ _След цяла година пълна невъзможност за път�
 
 Съжалявам за скучния разказа за този ден, но от него помня предимно умора и пътуване с автобус! За награда ще добавя купчина красиви снимки от първия ни следобед в Голфито, направени от Йо с много умение докато аз съм спал непробудно.
 
-<div class="gallery gallery-full-width">
-    <div class="gallery-row">
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-bay-of-golfito.jpeg"
-                title="Залива на Голфито гледан от хостела ни. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-bay-of-golfito-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-hostel-pier.jpeg"
-                title="Кеят излизащ от сградата на хостела. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-hostel-pier-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-hostel-outside-1.jpeg"
-                title="Гледка към хостела ни от земята. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-hostel-outside-1-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-hostel-waterfront.jpeg"
-                title="Хостела гледан от към водата. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-hostel-waterfront-thumb.jpeg">
-            </a>
-        </div>
-    </div>
-    <div class="gallery-row">
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-hostel-street.jpeg"
-                title="'Улицата' на която се намираше хостела. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-hostel-street-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-getting-dark.jpeg"
-                title="В залива започва да се стъмва. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-getting-dark-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-beer.jpeg"
-                title="Първата ни костариканска бира. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-beer-thumb.jpeg">
-            </a>
-        </div>
-        <div class="gallery-column">
-            <a href="/assets/central-america-trip/day7-golfito-night.jpeg"
-                title="Нощна търговия. Снимка - Йо.">
-                <img src="/assets/central-america-trip/day7-golfito-night-thumb.jpeg">
-            </a>
-        </div>
-    </div>
+<div class="gallery-tiles">
+    <a href="/assets/central-america-trip/day7-bay-of-golfito.jpeg"
+        title="Залива на Голфито гледан от хостела ни. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-bay-of-golfito-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-hostel-pier.jpeg"
+        title="Кеят излизащ от сградата на хостела. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-hostel-pier-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-hostel-outside-1.jpeg"
+        title="Гледка към хостела ни от земята. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-hostel-outside-1-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-hostel-waterfront.jpeg"
+        title="Хостела гледан от към водата. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-hostel-waterfront-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-hostel-street.jpeg"
+        title="'Улицата' на която се намираше хостела. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-hostel-street-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-getting-dark.jpeg"
+        title="В залива започва да се стъмва. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-getting-dark-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-beer.jpeg"
+        title="Първата ни костариканска бира. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-beer-thumb.jpeg">
+    </a>
+    <a href="/assets/central-america-trip/day7-golfito-night.jpeg"
+        title="Нощна търговия. Снимка - Йо.">
+        <img src="/assets/central-america-trip/day7-golfito-night-thumb.jpeg">
+    </a>
 </div>
 
 _Това е част от поредицата ми, описваща мислите ми по време на скорошната ми почивка в Централна Америка. Начало на поредицата и описание можете да намерите [тук]({{ site.baseurl }}{% post_url 2018-01-15-01-central-america-intro %})._

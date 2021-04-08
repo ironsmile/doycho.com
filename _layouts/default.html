@@ -34,6 +34,20 @@
           }
         });
 
+        $('.gallery-tiles').magnificPopup({
+          delegate: 'a',
+          type: 'image',
+          zoom: {
+            enabled: true,
+            duration: 300,
+            easing: 'ease-in-out'
+          },
+          gallery:{
+            enabled:true,
+            preload: [1,1]
+          }
+        });
+
         $('.post-image-full').magnificPopup({
           type:'image',
           zoom: {

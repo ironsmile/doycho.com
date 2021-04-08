@@ -88,6 +88,24 @@ html {
     margin-top: 40px;
 }
 
+.gallery-tiles {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.gallery-tiles > a {
+    height: 280px;
+    flex-grow: 1;
+}
+
+.gallery-tiles > a > img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+    padding: 2px;
+}
+
 .gallery-full-width {
     clear: both;
     margin: 10px 0;
