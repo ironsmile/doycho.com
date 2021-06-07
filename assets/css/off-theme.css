@@ -91,6 +91,7 @@ html {
 .gallery-tiles {
     display: flex;
     flex-wrap: wrap;
+    clear: both;
 }
 
 .gallery-tiles > a {
