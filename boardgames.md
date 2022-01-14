@@ -5,7 +5,7 @@ permalink: /boardgames/
 exclude: true
 ---
 
-### Бордови игри на Дойчо 😎 🎲 🎴
+### Бордови игри на Дойчо и Хриси 😎 🎲 🎴
 
 * [Битката за Балканите: Ерата на Калоян](https://boardgamegeek.com/boardgame/299545/bitkata-za-balkanite-erata-na-kaloyan)
 * [Игра на думи (Скрабъл) - БГ версия](https://boardgamegeek.com/boardgame/320/scrabble)
