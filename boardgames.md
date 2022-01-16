@@ -10,6 +10,7 @@ exclude: true
 * [Битката за Балканите: Ерата на Калоян](https://boardgamegeek.com/boardgame/299545/bitkata-za-balkanite-erata-na-kaloyan)
 * [Игра на думи (Скрабъл) - БГ версия](https://boardgamegeek.com/boardgame/320/scrabble)
 * [Хайдути](https://boardgamegeek.com/boardgame/334723/hajduti)
+* [Железници](https://time2play.bg/product/2479/zheleznitsi-nastolna-igra)
 * [Цар на Историята](https://boardgamegeek.com/boardgame/262726/car-na-istoriyata-king-history) + [expansion](https://boardgamegeek.com/boardgameexpansion/346316/car-na-istoriyata-bonus-teste-king-history-bonus-t)
 * [Black Stories](https://boardgamegeek.com/boardgame/57052/black-stories-real-crime-edition)
 * [Dead of Winter](https://boardgamegeek.com/boardgame/150376/dead-winter-crossroads-game)
