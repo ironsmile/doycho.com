@@ -3,7 +3,8 @@ post photo size: 403x302
 
 -- конвертиране --
 
-convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG -colorspace sRGB puzzle_converted.jpg
+convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG \
+    -colorspace sRGB -auto-orient puzzle_converted.jpg
 
 thumb: -resize 403x
 big: -resize 2016x
