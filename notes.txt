@@ -9,9 +9,22 @@ convert puzzle.jpg -sampling-factor 4:2:0 -strip -quality 85 -interlace JPEG \
 thumb: -resize 403x
 big: -resize 2016x
 
+-- скрипт за конвертиране --
+
+Имам скрипт за конвертиране на цяла директория - `./_scripts/convert-images.sh`.
+
 -- дали jpeg е progressive --
 
 identify -verbose file.jpeg | grep -E '(Image:|Interlace)'
+
+-- Генериране на галерия --
+
+За да се генерира галерия в край на статия за пътуване е създаден скрипта
+`./_scripts/generate-gallery-html.sh`. Начин на употреба:
+
+```
+./_scripts/generate-gallery-html.sh assets/central-america-trip/day9/
+```
 
 - Неща за свършване
 

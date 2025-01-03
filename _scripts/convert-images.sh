@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 set -e
 
@@ -6,7 +6,7 @@ mkdir -p "${1}/out"
 
 convertImage () {
     dname=$(dirname "${1}")
-    fname=$(basename --suffix .jpg "${1}")
+    fname=$(basename --suffix .JPG "${1}")
     convert "${1}" \
             -resize 2016x \
             -sampling-factor 4:2:0 \
@@ -14,13 +14,13 @@ convertImage () {
             -quality 85 \
             -interlace JPEG \
             -colorspace sRGB \
-            -rotate 90 \
+            -auto-orient \
             "${dname}/out/${fname}.jpeg"
 }
 
 createThumbnail () {
     dname=$(dirname "${1}")
-    fname=$(basename --suffix .jpg "${1}")
+    fname=$(basename --suffix .JPG "${1}")
     convert "${1}" \
             -resize 403x \
             -sampling-factor 4:2:0 \
@@ -28,7 +28,7 @@ createThumbnail () {
             -quality 85 \
             -interlace JPEG \
             -colorspace sRGB \
-            -rotate 90 \
+            -auto-orient \
             "${dname}/out/${fname}-thumb.jpeg"
 }
 
