@@ -3,9 +3,9 @@
 set -e
 
 generateLinkedImage () {
-	fulln=$(basename ${0})
-	basen=$(basename ${0%.*})
-	dirn=$(dirname ${0})
+	fulln=$(basename ${1})
+	basen=$(basename ${1%.*})
+	dirn=$(dirname ${1})
     cat << EOL
 	<a href="/${dirn}/${fulln}"
 		title="">
@@ -14,12 +14,14 @@ generateLinkedImage () {
 EOL
 }
 
-export -f generateLinkedImage
+images=$(find "$1" -maxdepth 1 -type f -iname '*.jp*g' \
+	-not -iname '*-thumb.*' -not -iname 'cover.*' | sort)
 
 echo '<div class="gallery-tiles">'
 
-find "$1" -maxdepth 1 -type f -iname '*.jp*g' \
-	-not -iname '*-thumb.*' -not -iname 'cover.*' \
-	-exec bash -c 'generateLinkedImage "$0"' {} \;
+for image in $images
+do
+	generateLinkedImage "${image}"
+done
 
 echo '</div>'
