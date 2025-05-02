@@ -5,7 +5,7 @@ date:   2025-05-01 13:30:00 +0200
 excerpt_separator: <!--more-->
 ---
 
-__TODO: да направя картинка на статията показваща Liferea-та ми__
+![An RSS reader screenshot]({{ "/assets/rss-article/vienna-screenshot.png" | absolute_url }})
 
 Отговора е [RSS](https://en.wikipedia.org/wiki/RSS).
 
@@ -34,10 +34,12 @@ _Добре де, кажи най - накрая как да го следя т�
 * Android - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en-US)
 * Linux - [Liferea](https://lzone.de/liferea/), [Feeds](https://gfeeds.gabmus.org/)
 * Windows - [Feedly](https://feedly.com/)
-* MacOS - _TODO: да пусна мака и да си видя името на reader-а_
-* iOS - [feeeed](https://feeeed.nateparrott.com/)
+* MacOS - [Vienna RSS](https://www.vienna-rss.com/)
+* iOS - [feeeed](https://feeeed.nateparrott.com/), [Unread](https://www.goldenhillsoftware.com/unread/)
 * Web - [The Old Reader](https://www.theoldreader.com/en/) и отново [Feedly](https://feedly.com/)
 * Self hosted web - [Tiny Tiny RSS](https://tt-rss.org/)
+
+Естествено, има и много други.
 
 **Стъпка 2**
 
@@ -45,11 +47,11 @@ _Добре де, кажи най - накрая как да го следя т�
 
 Конвенцията е сайтовете да изложат линк към RSS feed-a си като използват RSS логото някъде в началото или края си. То изглежда ето така:
 
-__TODO: каринка с RSS логото__
+![The RSS logo]({{ "/assets/rss-article/rss-logo.png" | absolute_url }})
 
 Преди време всеки браузър показваше RSS фийдовете на сайтовете които е отворил в полето за писане на адрес.
 
-__TODO: картинка на RSS бутон в location bar-a на браузър__
+![RSS icon in browser's location bar]({{ "/assets/rss-article/rss-icon-in-location-bar.png" | absolute_url }})
 
 Но това вече не е толкова сигурно. Въпреки това има добавки за браузърите (Firefox, Chrome) които възвръщат това поведение.
 
