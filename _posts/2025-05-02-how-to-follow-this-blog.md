@@ -31,13 +31,13 @@ _Добре де, кажи най - накрая как да го следя т�
 
 Инсталирайте си RSS четец и се абонирайте за любимото си съдържание. Ето примери за четци, които аз харесвам:
 
-* Android - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en-US)
-* Linux - [Liferea](https://lzone.de/liferea/), [Feeds](https://gfeeds.gabmus.org/)
-* Windows - [Feedly](https://feedly.com/)
-* MacOS - [Vienna RSS](https://www.vienna-rss.com/)
-* iOS - [NetNewsWire](https://netnewswire.com/), [feeeed](https://feeeed.nateparrott.com/), [Unread](https://www.goldenhillsoftware.com/unread/)
-* Web - [The Old Reader](https://www.theoldreader.com/en/) и отново [Feedly](https://feedly.com/)
-* Self hosted web - [Tiny Tiny RSS](https://tt-rss.org/)
+* Android - [Feedly](https://play.google.com/store/apps/details?id=com.devhd.feedly&hl=en-US){:target="_blank"}
+* Linux - [Liferea](https://lzone.de/liferea/){:target="_blank"}, [Feeds](https://gfeeds.gabmus.org/){:target="_blank"}
+* Windows - [Feedly](https://feedly.com/){:target="_blank"}
+* MacOS - [Vienna RSS](https://www.vienna-rss.com/){:target="_blank"}
+* iOS - [NetNewsWire](https://netnewswire.com/){:target="_blank"}, [feeeed](https://feeeed.nateparrott.com/){:target="_blank"}, [Unread](https://www.goldenhillsoftware.com/unread/){:target="_blank"}
+* Web - [The Old Reader](https://www.theoldreader.com/en/){:target="_blank"} и отново [Feedly](https://feedly.com/){:target="_blank"}
+* Self hosted web - [Tiny Tiny RSS](https://tt-rss.org/){:target="_blank"}
 
 Естествено, има и много други.
 
