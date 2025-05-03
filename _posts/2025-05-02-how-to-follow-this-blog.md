@@ -53,7 +53,7 @@ _Добре де, кажи най - накрая как да го следя т�
 
 ![RSS icon in browser's location bar]({{ "/assets/rss-article/rss-icon-in-location-bar.png" | absolute_url }})
 
-Но това вече не е толкова сигурно. Въпреки това има добавки за браузърите ([за Firefox](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/), [за Chrome](https://chromewebstore.google.com/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?pli=1)) които възвръщат това поведение.
+Но това вече не е толкова сигурно. Въпреки това има добавки за браузърите ([за Firefox](https://addons.mozilla.org/en-US/firefox/addon/awesome-rss/){:target="_blank"}, [за Chrome](https://chromewebstore.google.com/detail/rss-subscription-extensio/nlbjncdgjeocebhnmkbbbdekmmmcbfjd?pli=1){:target="_blank"}) които възвръщат това поведение.
 
 **Стъпка 3**
 
